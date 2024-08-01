@@ -26,19 +26,19 @@ Permite a exclusão de álbuns inteiros.
 
 ## Rotas da API
 ### Álbuns
-- Ver todos os álbuns: ```{c:green}GET{/c} /album```
-- Ver álbum específico: ```{c:green}GET{/c} /album/{id}```
-- Pesquisar álbuns por nome: ```{c:green}GET{/c} /album/search?name={title}```
-- Adicionar novo álbum: ```{c:orange}POST{/c} /album```
-- Atualizar álbum: ```{c:blue}PUT{/c} /album/{id}```
-- Excluir álbum: ```{c:red}DELETE{/c} /album/{id}```
+- Ver todos os álbuns: ```GET /album```
+- Ver álbum específico: ```GET /album/{id}```
+- Pesquisar álbuns por nome: ```GET /album/search?name={title}```
+- Adicionar novo álbum: ```POST /album```
+- Atualizar álbum: ```PUT /album/{id}```
+- Excluir álbum: ```DELETE /album/{id}```
 
 ### Faixas
-- Ver todas as faixas: ```{c:green}GET{/c} /track```
-- Ver faixa específica: ```{c:green}GET{/c} /track/{id}```
-- Adicionar nova faixa: ```{c:orange}POST{/c} /track```
-- Atualizar faixa: ```{c:blue}PUT{/c} /track/{id}```
-- Excluir faixa: ```{c:red}DELETE{/c} /track/{id}```
+- Ver todas as faixas: ```GET /track```
+- Ver faixa específica: ```GET /track/{id}```
+- Adicionar nova faixa: ```POST /track```
+- Atualizar faixa: ```PUT /track/{id}```
+- Excluir faixa: ```DELETE /track/{id}```
 
 ## Como Rodar o Projeto
 #### Clone o repositório:
