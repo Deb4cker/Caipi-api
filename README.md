@@ -1,6 +1,8 @@
 # Caipi-api
 ### Api Rest em Larável para gerenciar a discografia da dupla caipira Tião Carreiro e Pardinho. 🤠
 
+Front end da aplicação disponível em: [Caipi-ui](https://github.com/Deb4cker/Caipi-ui)
+
 ## Funcionalidades
 #### 1. Ver lista de álbuns e faixas
 Exibe todos os álbuns disponíveis e suas respectivas faixas.
